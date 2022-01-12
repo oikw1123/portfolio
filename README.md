@@ -27,7 +27,7 @@ staring a="これはC#(cs)初期のブロック";
 
 ### リンク
 
-cluster 及川 (https://cluster.mu/w/a9426dc3-ee56-4cf7-a02c-5636befe1374).
+[cluster 及川] (https://cluster.mu/w/a9426dc3-ee56-4cf7-a02c-5636befe1374)
 
 ### 画像
 
