@@ -27,11 +27,14 @@ staring a="これはC#(cs)初期のブロック";
 
 ### リンク
 
-[cluster 及川] (https://cluster.mu/w/a9426dc3-ee56-4cf7-a02c-5636befe1374)
+[cluster 及川](https://cluster.mu/w/a9426dc3-ee56-4cf7-a02c-5636befe1374)
 
 ### 画像
 
+![画像](images/image.png)
 
+<img src="images/image.png"
+alt="画像" style="width: 240px">
 
 画像はこのフォルダー内に含めて相対リンクで示す。
 
@@ -42,3 +45,19 @@ staring a="これはC#(cs)初期のブロック";
 ### 箇条書き
 
 ### 通常リスト
+
+
+- 箇条書き
+- 箇条書き2
+- 箇条書き3
+
+### 通し番号付きリスト
+
+1. 通し番号1
+1. 通し番号2
+1. 通し番号3
+
+### 途中から番号を始める
+
+100. 好きな値から
+100. 始められる
