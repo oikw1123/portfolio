@@ -1,7 +1,7 @@
 # Portfolio
 
 - 及川颯大
-- 連絡先 Email [oikw](sut11231123@gmail.com)
+- 連絡先 Email [oikw11231123@gmail.com](sut11231123@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2023年卒業予定
 
 ## 資格
@@ -12,16 +12,15 @@
 - C#
   - 利用歴1年
 
-
-
 - C/C++
   - 利用歴1年
-  -
+  - Visual Studioで独自のツールの作成が可能
 
   - 簡単なミニゲームの開発
 - cluster
   - 利用歴1年
   - ミニワールドの作成
+
   - チーム開発によるワールドの作成
 
 ## 取り組んでいるテーマ
@@ -29,10 +28,10 @@
 
 ## 作品リスト
 
-### 作品名1
+### train station
 [<img src="images/world.png" alt="作品名1" style="height: 360px">](https://cluster.mu/w/10b37288-19d3-4469-b108-f56a11627e27)
 
-[train station 及川](https://cluster.mu/w/10b37288-19d3-4469-b108-f56a11627e27)
+[train station ](https://cluster.mu/w/10b37288-19d3-4469-b108-f56a11627e27)
 
 
 - 作品概要
@@ -43,10 +42,10 @@
 - 制作場所：入り口のワールドを担当
 
 
-### 作品名2
+### forest
 [<img src="images/Natuyasumi.png" alt="作品名2" style="height: 360px">](https://cluster.mu/w/a9426dc3-ee56-4cf7-a02c-5636befe1374)
 
-[forest 及川](https://cluster.mu/w/a9426dc3-ee56-4cf7-a02c-5636befe1374)
+[forest ](https://cluster.mu/w/a9426dc3-ee56-4cf7-a02c-5636befe1374)
 
 - 作品概要
 
@@ -58,10 +57,10 @@
 - 制作人数：1人
 - 開発期間：5日
 
-### 作品名3
+### shooting demo
 [<img src="images/shoot.png" alt="作品名2" style="height: 360px">](https://cluster.mu/w/7745d022-9941-4291-a852-d96221edb9aa)
 
-[shooting demo 及川](https://cluster.mu/w/7745d022-9941-4291-a852-d96221edb9aa)
+[shooting demo ](https://cluster.mu/w/7745d022-9941-4291-a852-d96221edb9aa)
 
 - 作品概要
 
@@ -87,4 +86,4 @@
 
 
 ## 連絡先
-- E-mail [及川](sut11231123@gmail.com)
+- E-mail [oikw11231123@gmail.com](sut11231123@gmail.com)
