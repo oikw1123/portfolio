@@ -86,4 +86,4 @@
 
 
 ## 連絡先
-- E-mail [oikw](sut11231123@gmail.com)
+- E-mail [及川](sut11231123@gmail.com)
