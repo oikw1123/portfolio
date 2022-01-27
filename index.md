@@ -4,6 +4,12 @@
 - 連絡先 Email [oikw11231123@gmail.com](sut11231123@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2023年卒業予定
 
+- 1/27追記
+
+## clusterで実装できそうなこと
+
+ [最終発表](https://docs.google.com/document/d/1TKcOQ5VRqEWsacGn5PV7cZKIhyqZwGZlaeBGtlGkmME/edit?usp=sharing)
+
 ## 資格
 
 -
