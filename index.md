@@ -6,7 +6,7 @@
 
 - 1/27追記
 
-## clusterで実装できそうなこと
+## 最終発表
 
  [2/3用のGoogleドキュメント](https://docs.google.com/document/d/1TKcOQ5VRqEWsacGn5PV7cZKIhyqZwGZlaeBGtlGkmME/edit?usp=sharing)
 
