@@ -8,7 +8,7 @@
 
 ## clusterで実装できそうなこと
 
- [最終発表](https://docs.google.com/document/d/1TKcOQ5VRqEWsacGn5PV7cZKIhyqZwGZlaeBGtlGkmME/edit?usp=sharing)
+ [2/3用のGoogleドキュメント](https://docs.google.com/document/d/1TKcOQ5VRqEWsacGn5PV7cZKIhyqZwGZlaeBGtlGkmME/edit?usp=sharing)
 
 ## 資格
 
